@@ -22,3 +22,8 @@ With the basics above you can know understand this example for using prisma with
 
 # Todo
 What's missing is a good article about the hole private, sub-net, vpn and security of AWS.
+
+
+# Not readed
+https://ibrahimcesar.cloud/blog/full-stack-cloud-ssr-server-side-rendering-with-nextjs-tailwind-and-aws-cdk/
+Seems covering several related topics together

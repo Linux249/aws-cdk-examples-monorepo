@@ -8,6 +8,10 @@ This is an example for an RDS instance witch will be call a docker lambda for in
 https://bobbyhadz.com/blog/aws-cdk-tutorial-typescript
 This guide shows the basics of using the AWS CDK with TypeScript as an StepByStep Guide. In includes a simple dev and production stack.
 
+### S3 + CF
+https://dev.to/ryands17/deploying-a-spa-using-aws-cdk-typescript-4ibf
+
+
 ### Lambdas
 https://bobbyhadz.com/blog/aws-cdk-lambda-function-example
 Shows how to add lambdas to your Stack.

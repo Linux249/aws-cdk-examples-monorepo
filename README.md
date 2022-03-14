@@ -27,6 +27,8 @@ This show's how to create Layers for Lambda functions. They are used for code th
 https://github.com/aws-samples/prisma-lambda-cdk
 With the basics above you can know understand this example for using prisma with AWS CDK.
 
+Another Example: https://github.com/ryands17/prisma-lambda
+
 ### Fargete 
 Run a nodejs/next-js service in Docker and sale via fargate.
 https://medium.com/@srhise/deploying-next-js-on-aws-fargate-with-aws-cloud-development-kit-cdk-5b433257365c
